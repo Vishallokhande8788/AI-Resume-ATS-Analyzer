@@ -1,0 +1,4 @@
+1 Field to put my JD
+2 Upload PDF
+3 PDF to Image------> Processing ----> Google Gemini Pro model 
+4 Prompts Templates [multiple prompts ]
